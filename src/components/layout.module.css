@@ -16,6 +16,7 @@
 
 .nav-link-item {
   padding-right: 2rem;
+  width:40px;
 }
 
 
@@ -26,4 +27,10 @@
 .nav-link-text:hover{
     color:rebeccapurple;
     font-weight: bold;
+}
+
+.site-title {
+  font-size: 3rem;
+  color:peru;
+  font-weight: 700;
 }
