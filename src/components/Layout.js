@@ -21,7 +21,7 @@ const Layout = ({ pageTitle, pageHeading, children }) => {
     }
   `);
 
-  console.log(data)
+// console.log(data)
 
   return (
     <div className={container}>
